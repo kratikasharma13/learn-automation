@@ -12,7 +12,7 @@ public class Day2Assingment2 {
 	int Subresult1=	obj1.sub(Sumresult,2);
 	int multresult= obj1.mult(Subresult1, 2);
 	float divresult = obj1.div(multresult, 2);
-	System.out.println("final result is "+divresult);
+	System.out.println("final resulaat is "+divresult);
 
 	}
 
